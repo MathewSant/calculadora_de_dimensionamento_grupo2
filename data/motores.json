@@ -1,0 +1,1242 @@
+[
+    {
+        "modelo": "1LA7 06..",
+        "potencia_cv": 27,
+        "potencia_kw": 20,
+        "corrente_nominal_380v_a": 30.5,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 80,
+        "corrente_partida_ip_in": 202.5,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA7 07..",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 32,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 90,
+        "corrente_partida_ip_in": 240,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA7 080",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 32,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 273.5,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA7 083",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 32,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 308.5,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA9 083..5",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 32,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 308.5,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA7 090e6",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 33,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 331,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA9 091..8",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 33,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 356.5,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA9 097",
+        "potencia_cv": 30.5,
+        "potencia_kw": 22.5,
+        "corrente_nominal_380v_a": 33,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 100,
+        "corrente_partida_ip_in": 331,
+        "conjugado_maximo": 75
+    },
+    {
+        "modelo": "1LA7 073-8EB-9*",
+        "potencia_cv": 0.16,
+        "potencia_kw": 0.13,
+        "corrente_nominal_380v_a": 0.53,
+        "fator_potencia": 0.49,
+        "rendimento_percent": 46.2,
+        "corrente_partida_ip_in": 2.7,
+        "conjugado_maximo": 1.2
+    },
+    {
+        "modelo": "1LA7 080-8EB-9*",
+        "potencia_cv": 0.25,
+        "potencia_kw": 0.18,
+        "corrente_nominal_380v_a": 0.81,
+        "fator_potencia": 0.41,
+        "rendimento_percent": 43.5,
+        "corrente_partida_ip_in": 2.3,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LA7 083-8EB-9*",
+        "potencia_cv": 0.33,
+        "potencia_kw": 0.25,
+        "corrente_nominal_380v_a": 1.11,
+        "fator_potencia": 0.41,
+        "rendimento_percent": 46.8,
+        "corrente_partida_ip_in": 2.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LA7 090-8EB-9*",
+        "potencia_cv": 0.5,
+        "potencia_kw": 0.37,
+        "corrente_nominal_380v_a": 1.18,
+        "fator_potencia": 0.49,
+        "rendimento_percent": 63.2,
+        "corrente_partida_ip_in": 3.1,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LA7 096-8EB-9*",
+        "potencia_cv": 0.75,
+        "potencia_kw": 0.55,
+        "corrente_nominal_380v_a": 1.62,
+        "fator_potencia": 0.49,
+        "rendimento_percent": 69.9,
+        "corrente_partida_ip_in": 3.3,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LA9 097-8HB9*",
+        "potencia_cv": 1.0,
+        "potencia_kw": 0.75,
+        "corrente_nominal_380v_a": 2.3,
+        "fator_potencia": 0.46,
+        "rendimento_percent": 63.7,
+        "corrente_partida_ip_in": 3.7,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1AD5*",
+        "potencia_cv": 1.5,
+        "potencia_kw": 1.1,
+        "corrente_nominal_380v_a": 3.59,
+        "fator_potencia": 0.42,
+        "rendimento_percent": 70.5,
+        "corrente_partida_ip_in": 5.1,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1BD2*",
+        "potencia_cv": 2.0,
+        "potencia_kw": 1.5,
+        "corrente_nominal_380v_a": 4.52,
+        "fator_potencia": 0.43,
+        "rendimento_percent": 78.2,
+        "corrente_partida_ip_in": 5.0,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1CD2*",
+        "potencia_cv": 3.0,
+        "potencia_kw": 2.2,
+        "corrente_nominal_380v_a": 5.73,
+        "fator_potencia": 0.51,
+        "rendimento_percent": 80.9,
+        "corrente_partida_ip_in": 6.0,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1CD3*",
+        "potencia_cv": 4.0,
+        "potencia_kw": 3.0,
+        "corrente_nominal_380v_a": 8.0,
+        "fator_potencia": 0.52,
+        "rendimento_percent": 83.7,
+        "corrente_partida_ip_in": 5.5,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1CD4*",
+        "potencia_cv": 5.0,
+        "potencia_kw": 3.7,
+        "corrente_nominal_380v_a": 9.96,
+        "fator_potencia": 0.46,
+        "rendimento_percent": 82.8,
+        "corrente_partida_ip_in": 5.4,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1DD2*",
+        "potencia_cv": 6.0,
+        "potencia_kw": 4.5,
+        "corrente_nominal_380v_a": 11.5,
+        "fator_potencia": 0.6,
+        "rendimento_percent": 85.7,
+        "corrente_partida_ip_in": 4.7,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1DD3*",
+        "potencia_cv": 7.5,
+        "potencia_kw": 5.5,
+        "corrente_nominal_380v_a": 13.5,
+        "fator_potencia": 0.56,
+        "rendimento_percent": 84.5,
+        "corrente_partida_ip_in": 5.5,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LE1 071-1DD4*",
+        "potencia_cv": 10.0,
+        "potencia_kw": 7.5,
+        "corrente_nominal_380v_a": 17.1,
+        "fator_potencia": 0.61,
+        "rendimento_percent": 88.4,
+        "corrente_partida_ip_in": 5.6,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 184-8EB-9*",
+        "potencia_cv": 12.5,
+        "potencia_kw": 9.2,
+        "corrente_nominal_380v_a": 21.0,
+        "fator_potencia": 0.55,
+        "rendimento_percent": 88.8,
+        "corrente_partida_ip_in": 4.7,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 186-8EB-9*",
+        "potencia_cv": 15.0,
+        "potencia_kw": 11.0,
+        "corrente_nominal_380v_a": 26.0,
+        "fator_potencia": 0.53,
+        "rendimento_percent": 88.7,
+        "corrente_partida_ip_in": 4.6,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 188-8EB-9*",
+        "potencia_cv": 20.0,
+        "potencia_kw": 15.0,
+        "corrente_nominal_380v_a": 35.0,
+        "fator_potencia": 0.51,
+        "rendimento_percent": 88.7,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 207-8EB-9*",
+        "potencia_cv": 25.0,
+        "potencia_kw": 18.5,
+        "corrente_nominal_380v_a": 41.5,
+        "fator_potencia": 0.55,
+        "rendimento_percent": 89.5,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 220-8EB-9*",
+        "potencia_cv": 30.0,
+        "potencia_kw": 22.0,
+        "corrente_nominal_380v_a": 47.0,
+        "fator_potencia": 0.6,
+        "rendimento_percent": 91.7,
+        "corrente_partida_ip_in": 5.4,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 223-8EB-9*",
+        "potencia_cv": 40.0,
+        "potencia_kw": 30.0,
+        "corrente_nominal_380v_a": 61.0,
+        "fator_potencia": 0.62,
+        "rendimento_percent": 92.0,
+        "corrente_partida_ip_in": 5.4,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 253-8EB-9*",
+        "potencia_cv": 50.0,
+        "potencia_kw": 37.0,
+        "corrente_nominal_380v_a": 74.0,
+        "fator_potencia": 0.68,
+        "rendimento_percent": 92.7,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 258-8EB-9*",
+        "potencia_cv": 60.0,
+        "potencia_kw": 45.0,
+        "corrente_nominal_380v_a": 88.0,
+        "fator_potencia": 0.7,
+        "rendimento_percent": 93.0,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 283-8EB-9*",
+        "potencia_cv": 75.0,
+        "potencia_kw": 55.0,
+        "corrente_nominal_380v_a": 110,
+        "fator_potencia": 0.68,
+        "rendimento_percent": 93.9,
+        "corrente_partida_ip_in": 5.5,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 288-8EB-9*",
+        "potencia_cv": 100,
+        "potencia_kw": 75.0,
+        "corrente_nominal_380v_a": 148,
+        "fator_potencia": 0.66,
+        "rendimento_percent": 93.7,
+        "corrente_partida_ip_in": 5.7,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 313-8EB-9*",
+        "potencia_cv": 125,
+        "potencia_kw": 90.0,
+        "corrente_nominal_380v_a": 180,
+        "fator_potencia": 0.68,
+        "rendimento_percent": 93.9,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LG4 316-8EB-9*",
+        "potencia_cv": 150,
+        "potencia_kw": 110,
+        "corrente_nominal_380v_a": 215,
+        "fator_potencia": 0.7,
+        "rendimento_percent": 94.4,
+        "corrente_partida_ip_in": 5.8,
+        "conjugado_maximo": 1.15
+    },
+    {
+        "modelo": "1LA7 060-4EB-9*",
+        "potencia_cv": 0.16,
+        "potencia_kw": 0.13,
+        "corrente_nominal_380v_a": 0.39,
+        "fator_potencia": 0.76,
+        "rendimento_percent": 66.0,
+        "corrente_partida_ip_in": 3.1,
+        "conjugado_maximo": 195
+    },
+    {
+        "modelo": "1LA7 063-4EB-9*",
+        "potencia_cv": 0.25,
+        "potencia_kw": 0.18,
+        "corrente_nominal_380v_a": 0.54,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 66.0,
+        "corrente_partida_ip_in": 3.7,
+        "conjugado_maximo": 230
+    },
+    {
+        "modelo": "1LA7 064-4EB-9*",
+        "potencia_cv": 0.33,
+        "potencia_kw": 0.25,
+        "corrente_nominal_380v_a": 0.75,
+        "fator_potencia": 0.76,
+        "rendimento_percent": 66.0,
+        "corrente_partida_ip_in": 3.7,
+        "conjugado_maximo": 230
+    },
+    {
+        "modelo": "1LA7 073-4EB-9*",
+        "potencia_cv": 0.5,
+        "potencia_kw": 0.37,
+        "corrente_nominal_380v_a": 1.08,
+        "fator_potencia": 0.76,
+        "rendimento_percent": 68.0,
+        "corrente_partida_ip_in": 4.0,
+        "conjugado_maximo": 220
+    },
+    {
+        "modelo": "1LA7 074-4EB-9*",
+        "potencia_cv": 0.75,
+        "potencia_kw": 0.55,
+        "corrente_nominal_380v_a": 1.6,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 67.5,
+        "corrente_partida_ip_in": 3.8,
+        "conjugado_maximo": 220
+    },
+    {
+        "modelo": "1LA9 083-4HB9*",
+        "potencia_cv": 1.0,
+        "potencia_kw": 0.75,
+        "corrente_nominal_380v_a": 1.86,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 80.5,
+        "corrente_partida_ip_in": 6.0,
+        "conjugado_maximo": 360
+    },
+    {
+        "modelo": "1LA9 085-4HB9*",
+        "potencia_cv": 1.5,
+        "potencia_kw": 1.1,
+        "corrente_nominal_380v_a": 2.85,
+        "fator_potencia": 0.72,
+        "rendimento_percent": 81.5,
+        "corrente_partida_ip_in": 6.0,
+        "conjugado_maximo": 360
+    },
+    {
+        "modelo": "1LA9 097-4HA9*",
+        "potencia_cv": 2.0,
+        "potencia_kw": 1.5,
+        "corrente_nominal_380v_a": 3.6,
+        "fator_potencia": 0.76,
+        "rendimento_percent": 84.0,
+        "corrente_partida_ip_in": 6.4,
+        "conjugado_maximo": 380
+    },
+    {
+        "modelo": "1LA9 098-4HA9*",
+        "potencia_cv": 3.0,
+        "potencia_kw": 2.2,
+        "corrente_nominal_380v_a": 5.2,
+        "fator_potencia": 0.74,
+        "rendimento_percent": 85.0,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 460
+    },
+    {
+        "modelo": "1LE1 071-1AB5*",
+        "potencia_cv": 4.0,
+        "potencia_kw": 3.0,
+        "corrente_nominal_380v_a": 6.6,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 86.0,
+        "corrente_partida_ip_in": 7.2,
+        "conjugado_maximo": 310
+    },
+    {
+        "modelo": "1LE1 071-1AB6*",
+        "potencia_cv": 5.0,
+        "potencia_kw": 3.7,
+        "corrente_nominal_380v_a": 8.0,
+        "fator_potencia": 0.81,
+        "rendimento_percent": 87.5,
+        "corrente_partida_ip_in": 8.3,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LE1 071-1BB2*",
+        "potencia_cv": 6.0,
+        "potencia_kw": 4.5,
+        "corrente_nominal_380v_a": 9.06,
+        "fator_potencia": 0.82,
+        "rendimento_percent": 88.5,
+        "corrente_partida_ip_in": 7.8,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LE1 071-1BB6*",
+        "potencia_cv": 7.5,
+        "potencia_kw": 5.5,
+        "corrente_nominal_380v_a": 11.3,
+        "fator_potencia": 0.81,
+        "rendimento_percent": 89.5,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 370
+    },
+    {
+        "modelo": "1LE1 071-1CB2*",
+        "potencia_cv": 10.0,
+        "potencia_kw": 7.5,
+        "corrente_nominal_380v_a": 14.1,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 89.5,
+        "corrente_partida_ip_in": 8.5,
+        "conjugado_maximo": 310
+    },
+    {
+        "modelo": "1LE1 071-1CB6*",
+        "potencia_cv": 12.5,
+        "potencia_kw": 9.2,
+        "corrente_nominal_380v_a": 17.8,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 90.0,
+        "corrente_partida_ip_in": 8.3,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LE1 071-1CB7*",
+        "potencia_cv": 15.0,
+        "potencia_kw": 11.0,
+        "corrente_nominal_380v_a": 21.3,
+        "fator_potencia": 0.86,
+        "rendimento_percent": 91.0,
+        "corrente_partida_ip_in": 8.6,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LE1 071-1DB4*",
+        "potencia_cv": 20.0,
+        "potencia_kw": 15.0,
+        "corrente_nominal_380v_a": 28.4,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 91.0,
+        "corrente_partida_ip_in": 7.0,
+        "conjugado_maximo": 250
+    },
+    {
+        "modelo": "1LE1 071-1DB6*",
+        "potencia_cv": 25.0,
+        "potencia_kw": 18.5,
+        "corrente_nominal_380v_a": 35.3,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 92.4,
+        "corrente_partida_ip_in": 8.4,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 186-4EA-9*",
+        "potencia_cv": 30.0,
+        "potencia_kw": 22.0,
+        "corrente_nominal_380v_a": 43.5,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 92.4,
+        "corrente_partida_ip_in": 8.0,
+        "conjugado_maximo": 380
+    },
+    {
+        "modelo": "1LG4 208-4EA-9*",
+        "potencia_cv": 40.0,
+        "potencia_kw": 30.0,
+        "corrente_nominal_380v_a": 58.0,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 93.0,
+        "corrente_partida_ip_in": 8.5,
+        "conjugado_maximo": 390
+    },
+    {
+        "modelo": "1LG4 204-4EA-9*",
+        "potencia_cv": 50.0,
+        "potencia_kw": 37.0,
+        "corrente_nominal_380v_a": 72.0,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 93.0,
+        "corrente_partida_ip_in": 7.4,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 223-4EA-9*",
+        "potencia_cv": 60.0,
+        "potencia_kw": 45.0,
+        "corrente_nominal_380v_a": 84.0,
+        "fator_potencia": 0.85,
+        "rendimento_percent": 93.6,
+        "corrente_partida_ip_in": 8.4,
+        "conjugado_maximo": 370
+    },
+    {
+        "modelo": "1LG4 228-4EA-9*",
+        "potencia_cv": 75.0,
+        "potencia_kw": 55.0,
+        "corrente_nominal_380v_a": 104,
+        "fator_potencia": 0.86,
+        "rendimento_percent": 94.1,
+        "corrente_partida_ip_in": 7.6,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LG4 258-4EA-9*",
+        "potencia_cv": 100,
+        "potencia_kw": 75.0,
+        "corrente_nominal_380v_a": 138,
+        "fator_potencia": 0.86,
+        "rendimento_percent": 94.5,
+        "corrente_partida_ip_in": 7.4,
+        "conjugado_maximo": 330
+    },
+    {
+        "modelo": "1LG4 283-4EA-9*",
+        "potencia_cv": 125,
+        "potencia_kw": 90.0,
+        "corrente_nominal_380v_a": 170,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 94.5,
+        "corrente_partida_ip_in": 7.6,
+        "conjugado_maximo": 310
+    },
+    {
+        "modelo": "1LG4 288-4EA-9*",
+        "potencia_cv": 150,
+        "potencia_kw": 110,
+        "corrente_nominal_380v_a": 205,
+        "fator_potencia": 0.85,
+        "rendimento_percent": 95.1,
+        "corrente_partida_ip_in": 8.4,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 313-4EA-9*",
+        "potencia_cv": 175,
+        "potencia_kw": 132,
+        "corrente_nominal_380v_a": 245,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 95.1,
+        "corrente_partida_ip_in": 7.9,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LG4 316-4EA-9*",
+        "potencia_cv": 200,
+        "potencia_kw": 150,
+        "corrente_nominal_380v_a": 275,
+        "fator_potencia": 0.86,
+        "rendimento_percent": 95.0,
+        "corrente_partida_ip_in": 8.4,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 317-4EA-9*",
+        "potencia_cv": 250,
+        "potencia_kw": 185,
+        "corrente_nominal_380v_a": 340,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 95.1,
+        "corrente_partida_ip_in": 7.9,
+        "conjugado_maximo": 330
+    },
+    {
+        "modelo": "1LG4 315-4EA-9*",
+        "potencia_cv": 300,
+        "potencia_kw": 220,
+        "corrente_nominal_380v_a": 400,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 96.0,
+        "corrente_partida_ip_in": 8.9,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LG4 318-4EA-9*",
+        "potencia_cv": 400,
+        "potencia_kw": 300,
+        "corrente_nominal_380v_a": 525,
+        "fator_potencia": 0.89,
+        "rendimento_percent": 96.0,
+        "corrente_partida_ip_in": 7.3,
+        "conjugado_maximo": 289
+    },
+    {
+        "modelo": "1LA7 064-6EB-9*",
+        "potencia_cv": 0.16,
+        "potencia_kw": 0.13,
+        "corrente_nominal_380v_a": 0.59,
+        "fator_potencia": 0.45,
+        "rendimento_percent": 40.6,
+        "corrente_partida_ip_in": 2.0,
+        "conjugado_maximo": 190
+    },
+    {
+        "modelo": "1LA7 070-6EB-9*",
+        "potencia_cv": 0.25,
+        "potencia_kw": 0.18,
+        "corrente_nominal_380v_a": 0.62,
+        "fator_potencia": 0.46,
+        "rendimento_percent": 54.3,
+        "corrente_partida_ip_in": 2.9,
+        "conjugado_maximo": 210
+    },
+    {
+        "modelo": "1LA7 073-6EB-9*",
+        "potencia_cv": 0.33,
+        "potencia_kw": 0.25,
+        "corrente_nominal_380v_a": 0.79,
+        "fator_potencia": 0.48,
+        "rendimento_percent": 60.7,
+        "corrente_partida_ip_in": 2.4,
+        "conjugado_maximo": 240
+    },
+    {
+        "modelo": "1LA7 080-6EB-9*",
+        "potencia_cv": 0.5,
+        "potencia_kw": 0.37,
+        "corrente_nominal_380v_a": 1.2,
+        "fator_potencia": 0.45,
+        "rendimento_percent": 59.6,
+        "corrente_partida_ip_in": 3.5,
+        "conjugado_maximo": 200
+    },
+    {
+        "modelo": "1LA7 083-6EB-9*",
+        "potencia_cv": 0.75,
+        "potencia_kw": 0.55,
+        "corrente_nominal_380v_a": 1.69,
+        "fator_potencia": 0.46,
+        "rendimento_percent": 69.5,
+        "corrente_partida_ip_in": 3.2,
+        "conjugado_maximo": 220
+    },
+    {
+        "modelo": "1LA9 090-6HA9*",
+        "potencia_cv": 1,
+        "potencia_kw": 0.75,
+        "corrente_nominal_380v_a": 2.3,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 76,
+        "corrente_partida_ip_in": 5.6,
+        "conjugado_maximo": 290
+    },
+    {
+        "modelo": "1LA9 097-6HA9*",
+        "potencia_cv": 1.5,
+        "potencia_kw": 1.1,
+        "corrente_nominal_380v_a": 3,
+        "fator_potencia": 0.53,
+        "rendimento_percent": 75.5,
+        "corrente_partida_ip_in": 4.1,
+        "conjugado_maximo": 200
+    },
+    {
+        "modelo": "1LE1 071-1AC4*",
+        "potencia_cv": 2,
+        "potencia_kw": 1.5,
+        "corrente_nominal_380v_a": 3.94,
+        "fator_potencia": 0.57,
+        "rendimento_percent": 82,
+        "corrente_partida_ip_in": 6,
+        "conjugado_maximo": 200
+    },
+    {
+        "modelo": "1LE1 071-1AC5*",
+        "potencia_cv": 3,
+        "potencia_kw": 2.2,
+        "corrente_nominal_380v_a": 5.67,
+        "fator_potencia": 0.59,
+        "rendimento_percent": 83.1,
+        "corrente_partida_ip_in": 5.3,
+        "conjugado_maximo": 170
+    },
+    {
+        "modelo": "1LE1 071-1BC2*",
+        "potencia_cv": 4,
+        "potencia_kw": 3,
+        "corrente_nominal_380v_a": 7.06,
+        "fator_potencia": 0.63,
+        "rendimento_percent": 85.7,
+        "corrente_partida_ip_in": 5.7,
+        "conjugado_maximo": 170
+    },
+    {
+        "modelo": "1LE1 071-1CC2*",
+        "potencia_cv": 5,
+        "potencia_kw": 3.7,
+        "corrente_nominal_380v_a": 8.22,
+        "fator_potencia": 0.61,
+        "rendimento_percent": 86.6,
+        "corrente_partida_ip_in": 7,
+        "conjugado_maximo": 170
+    },
+    {
+        "modelo": "1LE1 071-1CC3*",
+        "potencia_cv": 6,
+        "potencia_kw": 4.5,
+        "corrente_nominal_380v_a": 9.73,
+        "fator_potencia": 0.66,
+        "rendimento_percent": 87,
+        "corrente_partida_ip_in": 7,
+        "conjugado_maximo": 180
+    },
+    {
+        "modelo": "1LE1 071-1CC6*",
+        "potencia_cv": 7.5,
+        "potencia_kw": 5.5,
+        "corrente_nominal_380v_a": 11.5,
+        "fator_potencia": 0.65,
+        "rendimento_percent": 86.7,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 200
+    },
+    {
+        "modelo": "1LE1 071-1CC7*",
+        "potencia_cv": 10,
+        "potencia_kw": 7.5,
+        "corrente_nominal_380v_a": 15.7,
+        "fator_potencia": 0.62,
+        "rendimento_percent": 87.6,
+        "corrente_partida_ip_in": 7.4,
+        "conjugado_maximo": 200
+    },
+    {
+        "modelo": "1LE1 071-1DC4*",
+        "potencia_cv": 12.5,
+        "potencia_kw": 9.2,
+        "corrente_nominal_380v_a": 19.7,
+        "fator_potencia": 0.6,
+        "rendimento_percent": 87.1,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 180
+    },
+    {
+        "modelo": "1LE1 071-1DC5*",
+        "potencia_cv": 15,
+        "potencia_kw": 11,
+        "corrente_nominal_380v_a": 23.3,
+        "fator_potencia": 0.63,
+        "rendimento_percent": 89.6,
+        "corrente_partida_ip_in": 7,
+        "conjugado_maximo": 170
+    },
+    {
+        "modelo": "1LE1 071-1DC6*",
+        "potencia_cv": 20,
+        "potencia_kw": 15,
+        "corrente_nominal_380v_a": 30.1,
+        "fator_potencia": 0.65,
+        "rendimento_percent": 89.7,
+        "corrente_partida_ip_in": 7,
+        "conjugado_maximo": 180
+    },
+    {
+        "modelo": "1LG4 188-6EA-9*",
+        "potencia_cv": 25,
+        "potencia_kw": 18.5,
+        "corrente_nominal_380v_a": 38,
+        "fator_potencia": 0.64,
+        "rendimento_percent": 91,
+        "corrente_partida_ip_in": 5.5,
+        "conjugado_maximo": 250
+    },
+    {
+        "modelo": "1LG4 207-6EA-9*",
+        "potencia_cv": 30,
+        "potencia_kw": 22,
+        "corrente_nominal_380v_a": 44.5,
+        "fator_potencia": 0.65,
+        "rendimento_percent": 91.5,
+        "corrente_partida_ip_in": 6.7,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 208-6EA-9*",
+        "potencia_cv": 40,
+        "potencia_kw": 30,
+        "corrente_nominal_380v_a": 62,
+        "fator_potencia": 0.59,
+        "rendimento_percent": 92,
+        "corrente_partida_ip_in": 7.2,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LG4 228-6EA-9*",
+        "potencia_cv": 50,
+        "potencia_kw": 37,
+        "corrente_nominal_380v_a": 71,
+        "fator_potencia": 0.71,
+        "rendimento_percent": 93,
+        "corrente_partida_ip_in": 5.7,
+        "conjugado_maximo": 250
+    },
+    {
+        "modelo": "1LG4 255-6EA-9*",
+        "potencia_cv": 60,
+        "potencia_kw": 45,
+        "corrente_nominal_380v_a": 85,
+        "fator_potencia": 0.71,
+        "rendimento_percent": 93.7,
+        "corrente_partida_ip_in": 6.6,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LG4 258-6EA-9*",
+        "potencia_cv": 75,
+        "potencia_kw": 55,
+        "corrente_nominal_380v_a": 108,
+        "fator_potencia": 0.7,
+        "rendimento_percent": 93.8,
+        "corrente_partida_ip_in": 7,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LG4 283-6EA-9*",
+        "potencia_cv": 100,
+        "potencia_kw": 75,
+        "corrente_nominal_380v_a": 136,
+        "fator_potencia": 0.73,
+        "rendimento_percent": 94.4,
+        "corrente_partida_ip_in": 5.4,
+        "conjugado_maximo": 230
+    },
+    {
+        "modelo": "1LG4 288-6EA-9*",
+        "potencia_cv": 125,
+        "potencia_kw": 90,
+        "corrente_nominal_380v_a": 172,
+        "fator_potencia": 0.69,
+        "rendimento_percent": 93.9,
+        "corrente_partida_ip_in": 6.2,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 316-6EA-9*",
+        "potencia_cv": 150,
+        "potencia_kw": 110,
+        "corrente_nominal_380v_a": 210,
+        "fator_potencia": 0.72,
+        "rendimento_percent": 94.4,
+        "corrente_partida_ip_in": 8.7,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 317-6EA-9*",
+        "potencia_cv": 175,
+        "potencia_kw": 132,
+        "corrente_nominal_380v_a": 240,
+        "fator_potencia": 0.71,
+        "rendimento_percent": 94.2,
+        "corrente_partida_ip_in": 9,
+        "conjugado_maximo": 370
+    },
+    {
+        "modelo": "1LG4 315-6EA-9*",
+        "potencia_cv": 200,
+        "potencia_kw": 150,
+        "corrente_nominal_380v_a": 275,
+        "fator_potencia": 0.69,
+        "rendimento_percent": 94.4,
+        "corrente_partida_ip_in": 8.3,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 318-6EA-9*",
+        "potencia_cv": 250,
+        "potencia_kw": 185,
+        "corrente_nominal_380v_a": 340,
+        "fator_potencia": 0.74,
+        "rendimento_percent": 94.9,
+        "corrente_partida_ip_in": 7.9,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LA7 061-2EA-9*",
+        "potencia_cv": 0.16,
+        "potencia_kw": 0.13,
+        "corrente_nominal_380v_a": 0.3,
+        "fator_potencia": 0.66,
+        "rendimento_percent": 69.5,
+        "corrente_partida_ip_in": 6.2,
+        "conjugado_maximo": 270
+    },
+    {
+        "modelo": "1LA7 060-2EA-9*",
+        "potencia_cv": 0.25,
+        "potencia_kw": 0.18,
+        "corrente_nominal_380v_a": 0.45,
+        "fator_potencia": 0.61,
+        "rendimento_percent": 68.3,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 260
+    },
+    {
+        "modelo": "1LA7 063-2EA-9*",
+        "potencia_cv": 0.33,
+        "potencia_kw": 0.25,
+        "corrente_nominal_380v_a": 0.6,
+        "fator_potencia": 0.67,
+        "rendimento_percent": 71.8,
+        "corrente_partida_ip_in": 4.8,
+        "conjugado_maximo": 230
+    },
+    {
+        "modelo": "1LA7 064-2EA-9*",
+        "potencia_cv": 0.5,
+        "potencia_kw": 0.37,
+        "corrente_nominal_380v_a": 1.0,
+        "fator_potencia": 0.66,
+        "rendimento_percent": 65.9,
+        "corrente_partida_ip_in": 3.4,
+        "conjugado_maximo": 250
+    },
+    {
+        "modelo": "1LA7 073-2EA-9*",
+        "potencia_cv": 0.75,
+        "potencia_kw": 0.55,
+        "corrente_nominal_380v_a": 1.42,
+        "fator_potencia": 0.59,
+        "rendimento_percent": 68.3,
+        "corrente_partida_ip_in": 5.2,
+        "conjugado_maximo": 270
+    },
+    {
+        "modelo": "1LA9 075-2HA9*",
+        "potencia_cv": 1.0,
+        "potencia_kw": 0.75,
+        "corrente_nominal_380v_a": 1.81,
+        "fator_potencia": 0.67,
+        "rendimento_percent": 78.7,
+        "corrente_partida_ip_in": 6.5,
+        "conjugado_maximo": 320
+    },
+    {
+        "modelo": "1LA9 083-2HA9*",
+        "potencia_cv": 1.5,
+        "potencia_kw": 1.1,
+        "corrente_nominal_380v_a": 2.3,
+        "fator_potencia": 0.8,
+        "rendimento_percent": 79.0,
+        "corrente_partida_ip_in": 8.2,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LA9 084-2HA9*",
+        "potencia_cv": 2.0,
+        "potencia_kw": 1.5,
+        "corrente_nominal_380v_a": 3.25,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 82.0,
+        "corrente_partida_ip_in": 6.1,
+        "conjugado_maximo": 270
+    },
+    {
+        "modelo": "1LA9 091-2HA9*",
+        "potencia_cv": 3.0,
+        "potencia_kw": 2.2,
+        "corrente_nominal_380v_a": 4.4,
+        "fator_potencia": 0.79,
+        "rendimento_percent": 81.0,
+        "corrente_partida_ip_in": 8.5,
+        "conjugado_maximo": 490
+    },
+    {
+        "modelo": "1LA9 097-2HA9*",
+        "potencia_cv": 4.0,
+        "potencia_kw": 3.0,
+        "corrente_nominal_380v_a": 6.4,
+        "fator_potencia": 0.71,
+        "rendimento_percent": 81.3,
+        "corrente_partida_ip_in": 8.7,
+        "conjugado_maximo": 430
+    },
+    {
+        "modelo": "1LE1 071-1AA6*",
+        "potencia_cv": 5.0,
+        "potencia_kw": 3.7,
+        "corrente_nominal_380v_a": 7.53,
+        "fator_potencia": 0.82,
+        "rendimento_percent": 87.5,
+        "corrente_partida_ip_in": 8.2,
+        "conjugado_maximo": 360
+    },
+    {
+        "modelo": "1LE1 071-1BA2*",
+        "potencia_cv": 6.0,
+        "potencia_kw": 4.5,
+        "corrente_nominal_380v_a": 8.92,
+        "fator_potencia": 0.74,
+        "rendimento_percent": 86.5,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LE1 071-1BA6*",
+        "potencia_cv": 7.5,
+        "potencia_kw": 5.5,
+        "corrente_nominal_380v_a": 10.5,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 87.9,
+        "corrente_partida_ip_in": 8.2,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LE1 071-1CA1*",
+        "potencia_cv": 10.0,
+        "potencia_kw": 7.5,
+        "corrente_nominal_380v_a": 14.1,
+        "fator_potencia": 0.81,
+        "rendimento_percent": 89.1,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 290
+    },
+    {
+        "modelo": "1LE1 071-1CA6*",
+        "potencia_cv": 12.5,
+        "potencia_kw": 9.2,
+        "corrente_nominal_380v_a": 17.0,
+        "fator_potencia": 0.87,
+        "rendimento_percent": 89.9,
+        "corrente_partida_ip_in": 8.4,
+        "conjugado_maximo": 310
+    },
+    {
+        "modelo": "1LE1 071-1CA7*",
+        "potencia_cv": 15.0,
+        "potencia_kw": 11.0,
+        "corrente_nominal_380v_a": 20.4,
+        "fator_potencia": 0.86,
+        "rendimento_percent": 90.7,
+        "corrente_partida_ip_in": 8.5,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LE1 071-1DA3*",
+        "potencia_cv": 20.0,
+        "potencia_kw": 15.0,
+        "corrente_nominal_380v_a": 27.8,
+        "fator_potencia": 0.82,
+        "rendimento_percent": 88.5,
+        "corrente_partida_ip_in": 8.3,
+        "conjugado_maximo": 330
+    },
+    {
+        "modelo": "1LE1 071-1DA4*",
+        "potencia_cv": 25.0,
+        "potencia_kw": 18.5,
+        "corrente_nominal_380v_a": 34.2,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 89.8,
+        "corrente_partida_ip_in": 8.1,
+        "conjugado_maximo": 330
+    },
+    {
+        "modelo": "1LE1 071-1DA5*",
+        "potencia_cv": 30.0,
+        "potencia_kw": 22.0,
+        "corrente_nominal_380v_a": 40.5,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 90.7,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 310
+    },
+    {
+        "modelo": "1LG4 206-2EA-9*",
+        "potencia_cv": 40.0,
+        "potencia_kw": 30.0,
+        "corrente_nominal_380v_a": 55.0,
+        "fator_potencia": 0.77,
+        "rendimento_percent": 89.1,
+        "corrente_partida_ip_in": 7.4,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 207-2EA-9*",
+        "potencia_cv": 50.0,
+        "potencia_kw": 37.0,
+        "corrente_nominal_380v_a": 69.0,
+        "fator_potencia": 0.75,
+        "rendimento_percent": 90.6,
+        "corrente_partida_ip_in": 8.2,
+        "conjugado_maximo": 380
+    },
+    {
+        "modelo": "1LG4 223-2EA-9*",
+        "potencia_cv": 60.0,
+        "potencia_kw": 45.0,
+        "corrente_nominal_380v_a": 81.0,
+        "fator_potencia": 0.78,
+        "rendimento_percent": 91.8,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 228-2EA-9*",
+        "potencia_cv": 75.0,
+        "potencia_kw": 55.0,
+        "corrente_nominal_380v_a": 102,
+        "fator_potencia": 0.79,
+        "rendimento_percent": 92.6,
+        "corrente_partida_ip_in": 8.0,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LG4 258-2EA-9*",
+        "potencia_cv": 100,
+        "potencia_kw": 75.0,
+        "corrente_nominal_380v_a": 138,
+        "fator_potencia": 0.76,
+        "rendimento_percent": 91.2,
+        "corrente_partida_ip_in": 7.7,
+        "conjugado_maximo": 350
+    },
+    {
+        "modelo": "1LG4 283-2EB-9*",
+        "potencia_cv": 125,
+        "potencia_kw": 90.0,
+        "corrente_nominal_380v_a": 166,
+        "fator_potencia": 0.8,
+        "rendimento_percent": 93.6,
+        "corrente_partida_ip_in": 7.5,
+        "conjugado_maximo": 340
+    },
+    {
+        "modelo": "1LG4 288-2EB-9*",
+        "potencia_cv": 150,
+        "potencia_kw": 110,
+        "corrente_nominal_380v_a": 198,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 94.0,
+        "corrente_partida_ip_in": 7.4,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 313-2EB-9*",
+        "potencia_cv": 175,
+        "potencia_kw": 132,
+        "corrente_nominal_380v_a": 225,
+        "fator_potencia": 0.83,
+        "rendimento_percent": 92.4,
+        "corrente_partida_ip_in": 7.3,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 316-2EB-9*",
+        "potencia_cv": 200,
+        "potencia_kw": 150,
+        "corrente_nominal_380v_a": 260,
+        "fator_potencia": 0.84,
+        "rendimento_percent": 92.8,
+        "corrente_partida_ip_in": 8.8,
+        "conjugado_maximo": 390
+    },
+    {
+        "modelo": "1LG4 315-2EB-9*",
+        "potencia_cv": 250,
+        "potencia_kw": 185,
+        "corrente_nominal_380v_a": 320,
+        "fator_potencia": 0.85,
+        "rendimento_percent": 93.8,
+        "corrente_partida_ip_in": 6.6,
+        "conjugado_maximo": 300
+    },
+    {
+        "modelo": "1LG4 317-2EB-9*",
+        "potencia_cv": 300,
+        "potencia_kw": 220,
+        "corrente_nominal_380v_a": 380,
+        "fator_potencia": 0.88,
+        "rendimento_percent": 94.7,
+        "corrente_partida_ip_in": 6.7,
+        "conjugado_maximo": 300
+    }
+]

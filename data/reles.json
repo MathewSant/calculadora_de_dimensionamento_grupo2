@@ -1,0 +1,94 @@
+{
+  "reles_sobrecarga_eletronicos": [
+    {
+      "modelo": "RWM40E-3-AU002",
+      "faixa_corrente_a": "0.4...2",
+      "fusivel_maximo_a": 16,
+      "contatores_compativeis": ["CWB9...38"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "12786062",
+      "codigo": "12786062",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM40E-3-AU003",
+      "faixa_corrente_a": "1.6...8",
+      "fusivel_maximo_a": 32,
+      "contatores_compativeis": ["CWB9...38", "CWM9...40"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "12786061",
+      "codigo": "12786061",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM40E-3-AU025",
+      "faixa_corrente_a": "5...25",
+      "fusivel_maximo_a": 63,
+      "contatores_compativeis": ["CWB9...38", "CWM9...40"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "12786060",
+      "codigo": "12786060",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM40E-3-AU040",
+      "faixa_corrente_a": "8...40",
+      "fusivel_maximo_a": 125,
+      "contatores_compativeis": ["CWB9...38", "CWM9...40"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "12786059",
+      "codigo": "12786059",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM105E-3-AU063",
+      "faixa_corrente_a": "14...56",
+      "fusivel_maximo_a": 160,
+      "contatores_compativeis": ["CWM50...105"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "11147228",
+      "codigo": "11147228",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM105E-3-AU112",
+      "faixa_corrente_a": "28...112",
+      "fusivel_maximo_a": 250,
+      "contatores_compativeis": ["CWM50...105"],
+      "diagrama": "2T1, 4T2, 6T3 → 1L1, 3L2, 5L3",
+      "referencia": "11147229",
+      "codigo": "11147229",
+      "peso_kg": 0.25
+    },
+    {
+      "modelo": "RWM420E-3-AU250",
+      "faixa_corrente_a": "50...250",
+      "fusivel_maximo_a": 500,
+      "contatores_compativeis": ["CWM112...500"],
+      "diagrama": "1L1, 3L2, 5L3 → 2T1, 4T2, 6T3",
+      "referencia": "12802652",
+      "codigo": "12802652",
+      "peso_kg": 2.52
+    },
+    {
+      "modelo": "RWM420E-3-AU420",
+      "faixa_corrente_a": "85...420",
+      "fusivel_maximo_a": 710,
+      "contatores_compativeis": ["CWM112...500"],
+      "diagrama": "1L1, 3L2, 5L3 → 2T1, 4T2, 6T3",
+      "referencia": "11455486",
+      "codigo": "11455486",
+      "peso_kg": 2.52
+    },
+    {
+      "modelo": "RWM840E-3-AU840",
+      "faixa_corrente_a": "170...840",
+      "fusivel_maximo_a": 1250,
+      "contatores_compativeis": ["CWM150...800"],
+      "diagrama": "1L1, 3L2, 5L3 → 2T1, 4T2, 6T3",
+      "referencia": "11455487",
+      "codigo": "11455487",
+      "peso_kg": 4.15
+    }
+  ]
+}

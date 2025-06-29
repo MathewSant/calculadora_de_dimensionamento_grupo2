@@ -1,0 +1,1661 @@
+[
+    {
+        "modelo_inversor": "CFW500A01P6S2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A02P6S2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A04P3S2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A07P0S2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A01P6B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A02P6B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A04P3B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A01P6B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A02P6B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A04P3B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A07P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A09P6T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B07P3B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B10P0B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH1-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B07P3B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B10P0B2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B16P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C24P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D28P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D33P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D47P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D56P0T2",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 125,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A01P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A01P6T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A02P6T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A04P3T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500A06P1T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B02P6T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B04P3T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B06P5T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500B10P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C13P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C16P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D24P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500D31P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500E39P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500E49P0T4",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C01P7T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C03P0T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C04P3T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C07P0T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C10P0T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW500C12P0T5",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110002T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110004T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110007T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110010T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110012T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110017T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110022T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110027T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 50,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110032T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110044T5ONFYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110053T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110063T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110080T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 125,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110107T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 160,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110125T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 200,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110150T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 250,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110053T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110063T6ODBYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110080T6ODBYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 125,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110107T6ODBYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 160,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110125T6ODBYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 200,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110150T6ODBYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 250,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110170T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 350,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110216T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 400,
+        "modelo_fusivel_recomendado": "FNH1-400K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110289T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110315T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110365T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 710,
+        "modelo_fusivel_recomendado": "FNH2-710K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110435T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 800,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110584T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW110625T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW110758T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 710,
+        "modelo_fusivel_recomendado": "FNH2-710K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW110804T6OYZ",
+        "tensao_v": "600",
+        "corrente_nominal_inversor_a": 800,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW110022T5ONFYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110027T5ONFYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 50,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110032T5ONFYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110044T5ONFYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110053T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110063T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110080T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 125,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110107T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 160,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110125T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 200,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110150T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 250,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110053T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110063T6ODBYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110080T6ODBYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 125,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110107T6ODBYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 160,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110125T6ODBYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 200,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110150T6ODBYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 250,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110170T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 350,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110216T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 400,
+        "modelo_fusivel_recomendado": "FNH1-400K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110289T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110315T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 630,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110365T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 710,
+        "modelo_fusivel_recomendado": "FNH2-710K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110435T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 800,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110472T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 900,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110584T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 900,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110625T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 1000,
+        "modelo_fusivel_recomendado": "FNH3-1000K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW110758T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 710,
+        "modelo_fusivel_recomendado": "FNH3-710K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW110804T6OYZ",
+        "tensao_v": "690",
+        "corrente_nominal_inversor_a": 800,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 70,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 70,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 86,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 86,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 79,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 86,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 99,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 105,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 86,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 105,
+        "modelo_fusivel_recomendado": "FNH00-160K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 127,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 105,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 105,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 130,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 130,
+        "modelo_fusivel_recomendado": "FNH00-200K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 107,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 147,
+        "modelo_fusivel_recomendado": "FNH00-250K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 127,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 179,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 130,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 142,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 150,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 174,
+        "modelo_fusivel_recomendado": "FNH1-315K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 147,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 179,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 196,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 180,
+        "modelo_fusivel_recomendado": "FNH1-350K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 211,
+        "modelo_fusivel_recomendado": "FNH1-400K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 211,
+        "modelo_fusivel_recomendado": "FNH1-400K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 225,
+        "modelo_fusivel_recomendado": "FNH2-450K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 259,
+        "modelo_fusivel_recomendado": "FNH2-450K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 240,
+        "modelo_fusivel_recomendado": "FNH2-450K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 247,
+        "modelo_fusivel_recomendado": "FNH2-500K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 315,
+        "modelo_fusivel_recomendado": "FNH2-500K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 259,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 305,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 305,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 340,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 312,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 315,
+        "modelo_fusivel_recomendado": "FNH2-710K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 343,
+        "modelo_fusivel_recomendado": "FNH2-710K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 340,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 428,
+        "modelo_fusivel_recomendado": "FNH3-800K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 343,
+        "modelo_fusivel_recomendado": "FNH3-710K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 418,
+        "modelo_fusivel_recomendado": "FNH3-710K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 361,
+        "modelo_fusivel_recomendado": "FNH3-710K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 418,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 472,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 428,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "660-690",
+        "corrente_nominal_inversor_a": 428,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 472,
+        "modelo_fusivel_recomendado": "FNH3-1000K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-690",
+        "corrente_nominal_inversor_a": 555,
+        "modelo_fusivel_recomendado": "FNH3-1000K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 450,
+        "modelo_fusivel_recomendado": "FNH3-900K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 515,
+        "modelo_fusivel_recomendado": "FNH3-1000K-A",
+        "quantidade_em_paralelo": 3
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 600,
+        "modelo_fusivel_recomendado": "FNH2-630K-A",
+        "quantidade_em_paralelo": 2
+    },
+    {
+        "modelo_inversor": "CFW080016S2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080026S2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080040S2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080016B2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080026B2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080040B2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080073B2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080100B2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080070T2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080160T2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080017T2024POH3Z",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080220T2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080280T2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH1-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080330T2024",
+        "tensao_v": "200-240",
+        "corrente_nominal_inversor_a": 100,
+        "modelo_fusivel_recomendado": "FNH1-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080010T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080016T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080026T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080040T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080027T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080043T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080065T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW0800100T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080130T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080160T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 40,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080240T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 50,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080300T3848",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 80,
+        "modelo_fusivel_recomendado": "FNH1-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080017T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080030T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080043T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080070T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 20,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080100T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 25,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW080120T5060",
+        "tensao_v": "575",
+        "corrente_nominal_inversor_a": 35,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 2.9,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 4.2,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 3.6,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 4.0,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 4.2,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 7.0,
+        "modelo_fusivel_recomendado": "FNH00-20K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 5.5,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 6.0,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 7.0,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 7.0,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 10,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 9.0,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 10,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 10,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 12,
+        "modelo_fusivel_recomendado": "FNH00-25K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 12,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 14,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 13,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 13,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 14,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 16,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 16,
+        "modelo_fusivel_recomendado": "FNH00-35K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 22,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 27,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 24,
+        "modelo_fusivel_recomendado": "FNH00-40K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 24,
+        "modelo_fusivel_recomendado": "FNH00-50K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 27,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 32,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 28,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 30,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 36,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 32,
+        "modelo_fusivel_recomendado": "FNH00-63K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 38,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 45,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 44,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 53,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 45,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 45,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 54,
+        "modelo_fusivel_recomendado": "FNH00-80K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 53,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 54,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "220-230",
+        "corrente_nominal_inversor_a": 68,
+        "modelo_fusivel_recomendado": "FNH00-100K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 60,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "380-480",
+        "corrente_nominal_inversor_a": 70,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 63,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    },
+    {
+        "modelo_inversor": "CFW09",
+        "tensao_v": "500-600",
+        "corrente_nominal_inversor_a": 79,
+        "modelo_fusivel_recomendado": "FNH00-125K-A",
+        "quantidade_em_paralelo": 1
+    }
+]

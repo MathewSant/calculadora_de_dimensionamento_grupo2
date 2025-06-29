@@ -1,0 +1,1568 @@
+[
+    {
+        "modelo": "RW17-1D",
+        "corrente_ajustavel_a": "0,28...0,4 / 2",
+        "corrente_maxima_a": 17,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "Sensibilidade contra falta de fase",
+            "Compensação de temperatura"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC07",
+            "CWC09",
+            "CWC012",
+            "CWC016",
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D",
+        "corrente_ajustavel_a": "7...10 / 25",
+        "corrente_maxima_a": 32,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "Sensibilidade contra falta de fase",
+            "Compensação de temperatura"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC07",
+            "CWC09",
+            "CWC012",
+            "CWC016",
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW67-1D",
+        "corrente_ajustavel_a": "25...40",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "Térmica"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9",
+            "CWM12",
+            "CWM18",
+            "CWM25",
+            "CWM32",
+            "CWM40",
+            "CWM50"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "RW67-2D",
+        "corrente_ajustavel_a": "32...50",
+        "corrente_maxima_a": 50,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "Térmica"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9",
+            "CWM12",
+            "CWM18",
+            "CWM25",
+            "CWM32",
+            "CWM40",
+            "CWM50"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "RW27-1D",
+        "corrente_ajustavel_a": "0,28...0,4",
+        "corrente_maxima_a": 0.4,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "Térmica"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9",
+            "CWM12",
+            "CWM18",
+            "CWM25",
+            "CWM32",
+            "CWM40",
+            "CWM50"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "RW17-1D",
+        "corrente_ajustavel_a": "0,28...0,4",
+        "corrente_maxima_a": 17,
+        "classe_disparo": "-",
+        "tipo_protecao": [
+            "-"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07",
+            "CWC09",
+            "CWC012",
+            "CWC016",
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RW17-2D",
+        "corrente_ajustavel_a": "0,4...0,63",
+        "corrente_maxima_a": 17,
+        "classe_disparo": "-",
+        "tipo_protecao": [
+            "-"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07",
+            "CWC09",
+            "CWC012",
+            "CWC016",
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RW27-2D",
+        "corrente_ajustavel_a": "0,4...2",
+        "corrente_maxima_a": 27,
+        "classe_disparo": "-",
+        "tipo_protecao": [
+            "-"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9",
+            "CWB12",
+            "CWB18",
+            "CWB25",
+            "CWB32",
+            "CWB38"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWB40E",
+        "corrente_ajustavel_a": "5...25",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "-",
+        "tipo_protecao": [
+            "-"
+        ],
+        "reset": "manual",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9",
+            "CWB12",
+            "CWB18",
+            "CWB25",
+            "CWB32",
+            "CWB38"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RW17",
+        "corrente_ajustavel_a": "0,28...0,4 / 2",
+        "corrente_maxima_a": 0.4,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 45.0,
+            "largura": 71.5,
+            "profundidade": 83.5
+        }
+    },
+    {
+        "modelo": "RW27",
+        "corrente_ajustavel_a": "0,28...0,4 / 2",
+        "corrente_maxima_a": 0.4,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 50.0,
+            "largura": 76.5,
+            "profundidade": 106.5
+        }
+    },
+    {
+        "modelo": "RW67",
+        "corrente_ajustavel_a": "25...40 / 80",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 50.0,
+            "largura": 81.5,
+            "profundidade": 106.5
+        }
+    },
+    {
+        "modelo": "RW117",
+        "corrente_ajustavel_a": "63...80 / 200",
+        "corrente_maxima_a": 80,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 50.0,
+            "largura": 71.5,
+            "profundidade": 106.5
+        }
+    },
+    {
+        "modelo": "RW317",
+        "corrente_ajustavel_a": "100...150 / 315",
+        "corrente_maxima_a": 150,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 75.0,
+            "largura": 99.5,
+            "profundidade": 98.8
+        }
+    },
+    {
+        "modelo": "RW407",
+        "corrente_ajustavel_a": "320...480 / 800",
+        "corrente_maxima_a": 480,
+        "classe_disparo": "",
+        "tipo_protecao": [],
+        "reset": "",
+        "numero_polos": 0,
+        "compatibilidade_contatores": [],
+        "dimensoes_mm": {
+            "altura": 75.0,
+            "largura": 116.4,
+            "profundidade": 106.2
+        }
+    },
+    {
+        "modelo": "RW117-2D3-U080",
+        "corrente_ajustavel_a": "63...80",
+        "corrente_maxima_a": 80,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW117-2D3-U097",
+        "corrente_ajustavel_a": "75...97",
+        "corrente_maxima_a": 97,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW117-2D3-U112",
+        "corrente_ajustavel_a": "90...112",
+        "corrente_maxima_a": 112,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW317-1D3-U150",
+        "corrente_ajustavel_a": "100...150",
+        "corrente_maxima_a": 150,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...300",
+            "CWM400"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW317-1D3-U215",
+        "corrente_ajustavel_a": "140...215",
+        "corrente_maxima_a": 215,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...300",
+            "CWM400"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW317-1D3-U310",
+        "corrente_ajustavel_a": "200...310",
+        "corrente_maxima_a": 310,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...300",
+            "CWM400"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW317-1D3-U420",
+        "corrente_ajustavel_a": "275...420",
+        "corrente_maxima_a": 420,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...300",
+            "CWM400"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW407-1D3-U600",
+        "corrente_ajustavel_a": "400...600",
+        "corrente_maxima_a": 600,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM500...800"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW407-1D3-U840",
+        "corrente_ajustavel_a": "560...840",
+        "corrente_maxima_a": 840,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM500...800"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM40E",
+        "corrente_ajustavel_a": "0,4-40",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10/20/30",
+        "tipo_protecao": [
+            "sobrecarga"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9",
+            "CWM40"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWM112E",
+        "corrente_ajustavel_a": "40-112",
+        "corrente_maxima_a": 112,
+        "classe_disparo": "10/20/30",
+        "tipo_protecao": [
+            "sobrecarga"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM50",
+            "CWM105"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWM420E",
+        "corrente_ajustavel_a": "112-420",
+        "corrente_maxima_a": 420,
+        "classe_disparo": "10/20/30",
+        "tipo_protecao": [
+            "sobrecarga"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112",
+            "CWM500"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWM840E",
+        "corrente_ajustavel_a": "420-840",
+        "corrente_maxima_a": 840,
+        "classe_disparo": "10/20/30",
+        "tipo_protecao": [
+            "sobrecarga"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM400",
+            "CWM800"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWB40E",
+        "corrente_ajustavel_a": "0,4-40",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10/20/30",
+        "tipo_protecao": [
+            "sobrecarga"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9",
+            "CWB38"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "RWB40E-3-A4U002",
+        "corrente_ajustavel_a": "0,4...2",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWB40E-3-A4U008",
+        "corrente_ajustavel_a": "1,6...8",
+        "corrente_maxima_a": 8,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWB40E-3-A4U025",
+        "corrente_ajustavel_a": "5...25",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWB40E-3-A4U040",
+        "corrente_ajustavel_a": "8...40",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM40E-3-A4U002",
+        "corrente_ajustavel_a": "0,4...2",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9...40"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM40E-3-A4U008",
+        "corrente_ajustavel_a": "1,6...8",
+        "corrente_maxima_a": 8,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9...40"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM40E-3-A4U025",
+        "corrente_ajustavel_a": "5..25",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9...40"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM40E-3-A4U040",
+        "corrente_ajustavel_a": "8...40",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM9...40"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM112E-3-A4U056",
+        "corrente_ajustavel_a": "14...56",
+        "corrente_maxima_a": 56,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM50...105"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM112E-3-A4U112",
+        "corrente_ajustavel_a": "28...112",
+        "corrente_maxima_a": 112,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM50...105"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM420E-3-A4U250",
+        "corrente_ajustavel_a": "50...250",
+        "corrente_maxima_a": 250,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...500"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM420E-3-A4U420",
+        "corrente_ajustavel_a": "85...420",
+        "corrente_maxima_a": 420,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM112...500"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RWM840E-3-A4U8401",
+        "corrente_ajustavel_a": "170....840",
+        "corrente_maxima_a": 840,
+        "classe_disparo": "10, 20, 30",
+        "tipo_protecao": [
+            "falta de fase",
+            "desbalanceamento de fases"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWM150...800"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D004",
+        "corrente_ajustavel_a": "0,28...0,4",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-C063",
+        "corrente_ajustavel_a": "0,4...0,63",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D008",
+        "corrente_ajustavel_a": "0,56...0,8",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D012",
+        "corrente_ajustavel_a": "0,8...1,2",
+        "corrente_maxima_a": 4,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D018",
+        "corrente_ajustavel_a": "1,2...1,8",
+        "corrente_maxima_a": 6,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D028",
+        "corrente_ajustavel_a": "1,8...2,8",
+        "corrente_maxima_a": 6,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-U004",
+        "corrente_ajustavel_a": "2,8...4",
+        "corrente_maxima_a": 10,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D063",
+        "corrente_ajustavel_a": "4...6,3",
+        "corrente_maxima_a": 16,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-U008",
+        "corrente_ajustavel_a": "5,6...8",
+        "corrente_maxima_a": 20,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-U010",
+        "corrente_ajustavel_a": "7...10",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-D125",
+        "corrente_ajustavel_a": "8...12,5",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-U015",
+        "corrente_ajustavel_a": "10...15",
+        "corrente_maxima_a": 35,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-1D3-U017",
+        "corrente_ajustavel_a": "11...17",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CW07",
+            "CWC07...16"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-U010",
+        "corrente_ajustavel_a": "7...10",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-D125",
+        "corrente_ajustavel_a": "8...12,5",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-U015",
+        "corrente_ajustavel_a": "10...15",
+        "corrente_maxima_a": 35,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-U017",
+        "corrente_ajustavel_a": "11...17",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-U023",
+        "corrente_ajustavel_a": "15...23",
+        "corrente_maxima_a": 50,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW17-2D3-U032",
+        "corrente_ajustavel_a": "22...32",
+        "corrente_maxima_a": 63,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWC025"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D004",
+        "corrente_ajustavel_a": "0,28...0,4",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-C063",
+        "corrente_ajustavel_a": "0,43...0,63",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D008",
+        "corrente_ajustavel_a": "0,56...0,8",
+        "corrente_maxima_a": 2,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D012",
+        "corrente_ajustavel_a": "0,8...1,2",
+        "corrente_maxima_a": 4,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D018",
+        "corrente_ajustavel_a": "1,2...1,8",
+        "corrente_maxima_a": 6,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D028",
+        "corrente_ajustavel_a": "1,8...2,8",
+        "corrente_maxima_a": 6,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U004",
+        "corrente_ajustavel_a": "2,8...4",
+        "corrente_maxima_a": 10,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D063",
+        "corrente_ajustavel_a": "4...6,3",
+        "corrente_maxima_a": 16,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U008",
+        "corrente_ajustavel_a": "5,6...8",
+        "corrente_maxima_a": 20,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U010",
+        "corrente_ajustavel_a": "7...10",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-D125",
+        "corrente_ajustavel_a": "8...12,5",
+        "corrente_maxima_a": 25,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U015",
+        "corrente_ajustavel_a": "10...15",
+        "corrente_maxima_a": 35,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U017",
+        "corrente_ajustavel_a": "11...17",
+        "corrente_maxima_a": 40,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U023",
+        "corrente_ajustavel_a": "15...23",
+        "corrente_maxima_a": 50,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U032",
+        "corrente_ajustavel_a": "22...32",
+        "corrente_maxima_a": 63,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "RW27-2D3-U040",
+        "corrente_ajustavel_a": "32...40",
+        "corrente_maxima_a": 90,
+        "classe_disparo": "10",
+        "tipo_protecao": [
+            "sensibilidade contra falta de fase",
+            "compensação de temperatura"
+        ],
+        "reset": "manual/automático",
+        "numero_polos": 3,
+        "compatibilidade_contatores": [
+            "CWB9...38"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    }
+]

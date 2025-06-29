@@ -1,0 +1,4173 @@
+[
+    {
+        "modelo": "CWI07-10-30",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24-380 (60 Hz)",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "-"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 16,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWCI07-10-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24-380 (60 Hz)",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3,7 / 5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWCI09-10-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24-380 (60 Hz)",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWCI012-10-30",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24-380 (60 Hz)",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWCI016-10-30",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24-380 (60 Hz)",
+        "potencia_nominal": {
+            "AC3_220V": "3,7 / 5",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CW07-10-30",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24, 48, 110, 220, 380",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "-"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC07-10-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24, 48, 110, 220, 380",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC012-10-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24, 48, 110, 220, 380",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC016-10-30",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24, 48, 110, 220, 380",
+        "potencia_nominal": {
+            "AC3_220V": "3,7 / 5",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC025-00-30",
+        "corrente_nominal_a": 22,
+        "tensao_bobina_v": "24, 48, 110, 220, 380",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 35,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC07",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24-480 V (60 Hz), 20-415 V (50 Hz), 24-220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3,7 / 5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "Comunidade Européia",
+            "Canadá e EUA",
+            "Marítima",
+            "Rússia",
+            "Argentina",
+            "África do Sul",
+            "Colômbia"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWC09",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24-480 V (60 Hz), 20-415 V (50 Hz), 24-220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "Comunidade Européia",
+            "Canadá e EUA",
+            "Marítima",
+            "Rússia",
+            "Argentina",
+            "África do Sul",
+            "Colômbia"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWC012",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24-480 V (60 Hz), 20-415 V (50 Hz), 24-220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "Comunidade Européia",
+            "Canadá e EUA",
+            "Marítima",
+            "Rússia",
+            "Argentina",
+            "África do Sul",
+            "Colômbia"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWC016",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24-480 V (60 Hz), 20-415 V (50 Hz), 24-220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "3,7 / 5",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "Comunidade Européia",
+            "Canadá e EUA",
+            "Marítima",
+            "Rússia",
+            "Argentina",
+            "África do Sul",
+            "Colômbia"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWC025",
+        "corrente_nominal_a": 22,
+        "tensao_bobina_v": "24-480 V (60 Hz), 20-415 V (50 Hz), 24-220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "Sem contatos auxiliares",
+        "padrao_normas": [
+            "Comunidade Européia",
+            "Canadá e EUA",
+            "Marítima",
+            "Rússia",
+            "Argentina",
+            "África do Sul",
+            "Colômbia"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "9,2 / 12,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM40",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "11 / 15",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CWM50",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "AC",
+        "potencia_nominal": {
+            "AC3_220V": "15 / 20",
+            "AC3_380V": "22 / 30",
+            "AC3_440V": "30 / 40"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 85
+        }
+    },
+    {
+        "modelo": "CW07",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "400",
+        "potencia_nominal": {
+            "AC3_220V": "1,5",
+            "AC3_380V": "3",
+            "AC3_440V": "-"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 16,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC07",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "1,5",
+            "AC3_380V": "3",
+            "AC3_440V": "3,7"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC09",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "2,2",
+            "AC3_380V": "3,7",
+            "AC3_440V": "4,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC012",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "3",
+            "AC3_380V": "5,5",
+            "AC3_440V": "5,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC016",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "3,7",
+            "AC3_380V": "7,5",
+            "AC3_440V": "7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC025",
+        "corrente_nominal_a": 22,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "5,5",
+            "AC3_380V": "11",
+            "AC3_440V": "11"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CW07",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "-"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 16,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC07",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3,7 / 5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC09",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC012",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC016",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "3,7 / 5",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC025",
+        "corrente_nominal_a": 22,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "9,2 / 12,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB38",
+        "corrente_nominal_a": 38,
+        "tensao_bobina_v": "24...48 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "11 / 15",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 400,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "-",
+        "padrao_normas": [
+            "-"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWCH07-10-30",
+        "corrente_nominal_a": 5.6,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "1,1 / 1,5",
+            "AC3_380V": "2,2 / 3",
+            "AC3_440V": "2,2 / 3"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 14.4,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWCH09-10-30",
+        "corrente_nominal_a": 7.2,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3 / 4"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 16,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWCH012-10-30",
+        "corrente_nominal_a": 9.6,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "3,7 / 5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 17.6,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWCH016-10-30",
+        "corrente_nominal_a": 12.8,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 17.6,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC07-10-30",
+        "corrente_nominal_a": 7,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "1,5 / 2",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3 / 4"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 18,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC09-10-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "3,7 / 5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC012-10-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWC016-10-30",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "24-480",
+        "potencia_nominal": {
+            "AC3_220V": "3,7 / 5",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB9-11-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB12-11-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB18-11-30",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "9,2 / 12,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB25-11-30",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB32-11-30",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB38-11-30",
+        "corrente_nominal_a": 38,
+        "tensao_bobina_v": "24-480 AC / 12-220 DC",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWB9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 kW",
+            "AC3_380V": "3,7 kW",
+            "AC3_440V": "4,5 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "3 kW",
+            "AC3_380V": "5,5 kW",
+            "AC3_440V": "5,5 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 kW",
+            "AC3_380V": "7,5 kW",
+            "AC3_440V": "9,2 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 kW",
+            "AC3_380V": "11 kW",
+            "AC3_440V": "11 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 kW",
+            "AC3_380V": "15 kW",
+            "AC3_440V": "15 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB38",
+        "corrente_nominal_a": 38,
+        "tensao_bobina_v": "12...600",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 kW",
+            "AC3_380V": "18,5 kW",
+            "AC3_440V": "22 kW"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4-1",
+            "IEC 60947-5-1",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB9",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "9,5 kW",
+            "AC3_380V": "16,5 kW",
+            "AC3_440V": "19 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB12",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "9,5 kW",
+            "AC3_380V": "16,5 kW",
+            "AC3_440V": "19 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB18",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "12 kW",
+            "AC3_380V": "21 kW",
+            "AC3_440V": "24,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB25",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "15 kW",
+            "AC3_380V": "26 kW",
+            "AC3_440V": "30,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB32",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "19 kW",
+            "AC3_380V": "33 kW",
+            "AC3_440V": "38 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWB38",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "220/230 V",
+        "potencia_nominal": {
+            "AC3_220V": "19 kW",
+            "AC3_380V": "33 kW",
+            "AC3_440V": "38 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM112-22-30",
+        "corrente_nominal_a": 112,
+        "tensao_bobina_v": "24...510",
+        "potencia_nominal": {
+            "AC3_220V": "30 / 40",
+            "AC3_380V": "55 / 75",
+            "AC3_440V": "75 / 100"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 180,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM150-22-30",
+        "corrente_nominal_a": 150,
+        "tensao_bobina_v": "24...510",
+        "potencia_nominal": {
+            "AC3_220V": "45 / 60",
+            "AC3_380V": "75 / 100",
+            "AC3_440V": "90 / 125"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 225,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM180-22-30",
+        "corrente_nominal_a": 180,
+        "tensao_bobina_v": "24...510",
+        "potencia_nominal": {
+            "AC3_220V": "50 / 75",
+            "AC3_380V": "90 / 125",
+            "AC3_440V": "110 / 150"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 225,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM250-22-30",
+        "corrente_nominal_a": 250,
+        "tensao_bobina_v": "24...510",
+        "potencia_nominal": {
+            "AC3_220V": "75 / 100",
+            "AC3_380V": "132 / 175",
+            "AC3_440V": "150 / 200"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 350,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM300-22-30",
+        "corrente_nominal_a": 300,
+        "tensao_bobina_v": "24...510",
+        "potencia_nominal": {
+            "AC3_220V": "90 / 125",
+            "AC3_380V": "150 / 200",
+            "AC3_440V": "185 / 250"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 410,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "IEC 60947-5-1"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM400-22-40",
+        "corrente_nominal_a": 400,
+        "tensao_bobina_v": "100...240 V CA / 100...220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "110 / 150",
+            "AC3_380V": "220 / 300",
+            "AC3_440V": "220 / 300"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 450,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM500-22-40",
+        "corrente_nominal_a": 500,
+        "tensao_bobina_v": "100...240 V CA / 100...220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "150 / 200",
+            "AC3_380V": "260 / 350",
+            "AC3_440V": "300 / 400"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 580,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM630-22-40",
+        "corrente_nominal_a": 630,
+        "tensao_bobina_v": "100...240 V CA / 100...220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "185 / 250",
+            "AC3_380V": "330 / 450",
+            "AC3_440V": "330 / 450"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 660,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM800-22-40",
+        "corrente_nominal_a": 800,
+        "tensao_bobina_v": "100...240 V CA / 100...220 V CC",
+        "potencia_nominal": {
+            "AC3_220V": "220 / 300",
+            "AC3_380V": "440 / 600",
+            "AC3_440V": "440 / 700"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 900,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA + 2NF",
+        "padrao_normas": [
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM9-10-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM12-10-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM18-10-30",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "9,2 / 12,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM25-00-30",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM32-00-30",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM40-00-30",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "11 / 15",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM50-00-30",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "15 / 20",
+            "AC3_380V": "22 / 30",
+            "AC3_440V": "30 / 40"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM65-00-30",
+        "corrente_nominal_a": 65,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "18,5 / 25",
+            "AC3_380V": "30 / 40",
+            "AC3_440V": "37 / 50"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM80-00-30",
+        "corrente_nominal_a": 80,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "22 / 30",
+            "AC3_380V": "37 / 50",
+            "AC3_440V": "45 / 60"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM95-00-30",
+        "corrente_nominal_a": 95,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "22 / 30",
+            "AC3_380V": "45 / 60",
+            "AC3_440V": "55 / 75"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM105-00-30",
+        "corrente_nominal_a": 105,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "30 / 40",
+            "AC3_380V": "55 / 75",
+            "AC3_440V": "55 / 75"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM112",
+        "corrente_nominal_a": 112,
+        "tensao_bobina_v": "1.000",
+        "potencia_nominal": {
+            "AC3_220V": "30 kW",
+            "AC3_380V": "55 kW",
+            "AC3_440V": "55 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 180,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM150",
+        "corrente_nominal_a": 150,
+        "tensao_bobina_v": "1.000",
+        "potencia_nominal": {
+            "AC3_220V": "45 kW",
+            "AC3_380V": "75 kW",
+            "AC3_440V": "90 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 225,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM180",
+        "corrente_nominal_a": 180,
+        "tensao_bobina_v": "1.000",
+        "potencia_nominal": {
+            "AC3_220V": "55 kW",
+            "AC3_380V": "90 kW",
+            "AC3_440V": "110 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 225,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM250",
+        "corrente_nominal_a": 250,
+        "tensao_bobina_v": "1.000",
+        "potencia_nominal": {
+            "AC3_220V": "75 kW",
+            "AC3_380V": "132 kW",
+            "AC3_440V": "150 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 350,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM300",
+        "corrente_nominal_a": 300,
+        "tensao_bobina_v": "1.000",
+        "potencia_nominal": {
+            "AC3_220V": "90 kW",
+            "AC3_380V": "150 kW",
+            "AC3_440V": "185 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 410,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM400",
+        "corrente_nominal_a": 400,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "110 kW",
+            "AC3_380V": "220 kW",
+            "AC3_440V": "220 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 450,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM500",
+        "corrente_nominal_a": 500,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "150 kW",
+            "AC3_380V": "260 kW",
+            "AC3_440V": "300 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 580,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM630",
+        "corrente_nominal_a": 630,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "185 kW",
+            "AC3_380V": "330 kW",
+            "AC3_440V": "330 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 660,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM800",
+        "corrente_nominal_a": 800,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "220 kW",
+            "AC3_380V": "440 kW",
+            "AC3_440V": "440 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 900,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 kW",
+            "AC3_380V": "3,7 kW",
+            "AC3_440V": "4,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "3 kW",
+            "AC3_380V": "5,5 kW",
+            "AC3_440V": "5,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 kW",
+            "AC3_380V": "7,5 kW",
+            "AC3_440V": "9,2 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 kW",
+            "AC3_380V": "11 kW",
+            "AC3_440V": "11 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 kW",
+            "AC3_380V": "15 kW",
+            "AC3_440V": "15 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM40",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "11 kW",
+            "AC3_380V": "18,5 kW",
+            "AC3_440V": "22 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM50",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "15 kW",
+            "AC3_380V": "22 kW",
+            "AC3_440V": "30 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM65",
+        "corrente_nominal_a": 65,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "18,5 kW",
+            "AC3_380V": "30 kW",
+            "AC3_440V": "37 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM80",
+        "corrente_nominal_a": 80,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "22 kW",
+            "AC3_380V": "37 kW",
+            "AC3_440V": "45 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM95",
+        "corrente_nominal_a": 95,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "22 kW",
+            "AC3_380V": "45 kW",
+            "AC3_440V": "55 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM105",
+        "corrente_nominal_a": 105,
+        "tensao_bobina_v": "690",
+        "potencia_nominal": {
+            "AC3_220V": "30 kW",
+            "AC3_380V": "55 kW",
+            "AC3_440V": "55 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWM9",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "9,5",
+            "AC3_380V": "16,5",
+            "AC3_440V": "19"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM12",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "9,5",
+            "AC3_380V": "16,5",
+            "AC3_440V": "19"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM18",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "12",
+            "AC3_380V": "21",
+            "AC3_440V": "24"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM25",
+        "corrente_nominal_a": 45,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "17",
+            "AC3_380V": "29,5",
+            "AC3_440V": "34"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM32",
+        "corrente_nominal_a": 60,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "22,5",
+            "AC3_380V": "39,5",
+            "AC3_440V": "45,5"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM40",
+        "corrente_nominal_a": 60,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "22,5",
+            "AC3_380V": "39,5",
+            "AC3_440V": "45,5"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM50",
+        "corrente_nominal_a": 90,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "34",
+            "AC3_380V": "59",
+            "AC3_440V": "68,5"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM65",
+        "corrente_nominal_a": 110,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "42",
+            "AC3_380V": "72,5",
+            "AC3_440V": "84"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM80",
+        "corrente_nominal_a": 110,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "42",
+            "AC3_380V": "72,5",
+            "AC3_440V": "84"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM95",
+        "corrente_nominal_a": 140,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "53",
+            "AC3_380V": "92",
+            "AC3_440V": "106,5"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWM105",
+        "corrente_nominal_a": 140,
+        "tensao_bobina_v": "20...500",
+        "potencia_nominal": {
+            "AC3_220V": "53",
+            "AC3_380V": "92",
+            "AC3_440V": "106,5"
+        },
+        "frequencia_hz": "25...400",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2P (NA/NF)",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "IEC 60947-4",
+            "DIN VDE 0660(102)",
+            "UL 508",
+            "CSA C.22.2/14"
+        ],
+        "dimensoes_mm": {
+            "altura": null,
+            "largura": null,
+            "profundidade": null
+        }
+    },
+    {
+        "modelo": "CWMC25",
+        "corrente_nominal_a": null,
+        "tensao_bobina_v": "12...440",
+        "potencia_nominal": {
+            "AC3_220V": null,
+            "AC3_380V": null,
+            "AC3_440V": null
+        },
+        "frequencia_hz": null,
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": null,
+        "numero_contatos_principais": null,
+        "numero_contatos_auxiliares": null,
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 129,
+            "largura": 81,
+            "profundidade": 73
+        }
+    },
+    {
+        "modelo": "CWMC32",
+        "corrente_nominal_a": null,
+        "tensao_bobina_v": "24...240",
+        "potencia_nominal": {
+            "AC3_220V": null,
+            "AC3_380V": null,
+            "AC3_440V": null
+        },
+        "frequencia_hz": null,
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": null,
+        "numero_contatos_principais": null,
+        "numero_contatos_auxiliares": null,
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 140,
+            "largura": 55,
+            "profundidade": 79
+        }
+    },
+    {
+        "modelo": "CWMC50",
+        "corrente_nominal_a": null,
+        "tensao_bobina_v": "24...240",
+        "potencia_nominal": {
+            "AC3_220V": null,
+            "AC3_380V": null,
+            "AC3_440V": null
+        },
+        "frequencia_hz": null,
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": null,
+        "numero_contatos_principais": null,
+        "numero_contatos_auxiliares": null,
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 158,
+            "largura": 66,
+            "profundidade": 90
+        }
+    },
+    {
+        "modelo": "CWMC80",
+        "corrente_nominal_a": null,
+        "tensao_bobina_v": "24...240",
+        "potencia_nominal": {
+            "AC3_220V": null,
+            "AC3_380V": null,
+            "AC3_440V": null
+        },
+        "frequencia_hz": null,
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": null,
+        "numero_contatos_principais": null,
+        "numero_contatos_auxiliares": null,
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 167,
+            "largura": 75,
+            "profundidade": 90
+        }
+    },
+    {
+        "modelo": "CWMC9-10-30",
+        "corrente_nominal_a": 10,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "3",
+            "AC3_380V": "5.5",
+            "AC3_440V": "6.5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 16,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC18-10-30",
+        "corrente_nominal_a": 16,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "4.5",
+            "AC3_380V": "7.5",
+            "AC3_440V": "9.5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 22,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC25-10-30",
+        "corrente_nominal_a": 22,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "5",
+            "AC3_380V": "10",
+            "AC3_440V": "10"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 30,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC32-10-30",
+        "corrente_nominal_a": 34,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "10",
+            "AC3_380V": "17",
+            "AC3_440V": "21"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC50-10-30",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "17",
+            "AC3_380V": "30",
+            "AC3_440V": "35"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC65-10-30",
+        "corrente_nominal_a": 62,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "20",
+            "AC3_380V": "36",
+            "AC3_440V": "42"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 77,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMC80-10-30",
+        "corrente_nominal_a": 67,
+        "tensao_bobina_v": "20-480",
+        "potencia_nominal": {
+            "AC3_220V": "22",
+            "AC3_380V": "40",
+            "AC3_440V": "56"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 93,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-1",
+            "UL"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS9-32-30",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 / 3",
+            "AC3_380V": "3,7 / 5",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS12-32-30",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "5,5 / 7,5",
+            "AC3_440V": "5,5 / 7,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS18-32-30",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "9,2 / 12,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS25-22-30",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 / 7,5",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 2,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS32-22-30",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 / 12,5",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 2,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS40-22-30",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "11 / 15",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 2,
+        "numero_contatos_auxiliares": "2NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS50-33-30",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "15 / 20",
+            "AC3_380V": "22 / 30",
+            "AC3_440V": "30 / 40"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "3NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS65-33-30",
+        "corrente_nominal_a": 65,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "18,5 / 25",
+            "AC3_380V": "30 / 40",
+            "AC3_440V": "37 / 50"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "3NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS80-33-30",
+        "corrente_nominal_a": 80,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "22 / 30",
+            "AC3_380V": "37 / 50",
+            "AC3_440V": "45 / 60"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "3NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS95-33-30",
+        "corrente_nominal_a": 95,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "22 / 30",
+            "AC3_380V": "45 / 60",
+            "AC3_440V": "55 / 75"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "3NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS105-33-30",
+        "corrente_nominal_a": 105,
+        "tensao_bobina_v": "20-510",
+        "potencia_nominal": {
+            "AC3_220V": "30 / 40",
+            "AC3_380V": "55 / 75",
+            "AC3_440V": "55 / 75"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "3NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "0,75 / 1",
+            "AC3_380V": "0,75 / 1",
+            "AC3_440V": "0,75 / 1"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 20,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 86
+        }
+    },
+    {
+        "modelo": "CWMS12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "3 / 4",
+            "AC3_380V": "3 / 4",
+            "AC3_440V": "3 / 4"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 77,
+            "largura": 45,
+            "profundidade": 86
+        }
+    },
+    {
+        "modelo": "CWMS18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 / 6",
+            "AC3_380V": "4,5 / 6",
+            "AC3_440V": "4,5 / 6"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 86,
+            "largura": 45,
+            "profundidade": 95
+        }
+    },
+    {
+        "modelo": "CWMS25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "7,5 / 10",
+            "AC3_380V": "7,5 / 10",
+            "AC3_440V": "7,5 / 10"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 40,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 95,
+            "largura": 55,
+            "profundidade": 105
+        }
+    },
+    {
+        "modelo": "CWMS32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "11 / 15",
+            "AC3_380V": "11 / 15",
+            "AC3_440V": "11 / 15"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 50,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 105,
+            "largura": 65,
+            "profundidade": 115
+        }
+    },
+    {
+        "modelo": "CWMS40",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "15 / 20",
+            "AC3_380V": "15 / 20",
+            "AC3_440V": "15 / 20"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 115,
+            "largura": 75,
+            "profundidade": 125
+        }
+    },
+    {
+        "modelo": "CWMS50",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "18,5 / 25",
+            "AC3_380V": "18,5 / 25",
+            "AC3_440V": "18,5 / 25"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 80,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 125,
+            "largura": 85,
+            "profundidade": 135
+        }
+    },
+    {
+        "modelo": "CWMS65",
+        "corrente_nominal_a": 65,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "22 / 30",
+            "AC3_380V": "22 / 30",
+            "AC3_440V": "22 / 30"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 100,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 135,
+            "largura": 95,
+            "profundidade": 145
+        }
+    },
+    {
+        "modelo": "CWMS80",
+        "corrente_nominal_a": 80,
+        "tensao_bobina_v": "24...510 V 50/60 Hz",
+        "potencia_nominal": {
+            "AC3_220V": "30 / 40",
+            "AC3_380V": "30 / 40",
+            "AC3_440V": "30 / 40"
+        },
+        "frequencia_hz": "60",
+        "tensao_isolacao_ui_v": 690,
+        "corrente_ac1_a": 125,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA + 1NF",
+        "padrao_normas": [
+            "IEC 60947",
+            "UL 508"
+        ],
+        "dimensoes_mm": {
+            "altura": 145,
+            "largura": 105,
+            "profundidade": 155
+        }
+    },
+    {
+        "modelo": "CWMS9",
+        "corrente_nominal_a": 9,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "2,2 kW",
+            "AC3_380V": "3,7 kW",
+            "AC3_440V": "4,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS12",
+        "corrente_nominal_a": 12,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "3 kW",
+            "AC3_380V": "5,5 kW",
+            "AC3_440V": "5,5 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS18",
+        "corrente_nominal_a": 18,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "4,5 kW",
+            "AC3_380V": "7,5 kW",
+            "AC3_440V": "9,2 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS25",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "5,5 kW",
+            "AC3_380V": "11 kW",
+            "AC3_440V": "11 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS32",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "9,2 kW",
+            "AC3_380V": "15 kW",
+            "AC3_440V": "15 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS40",
+        "corrente_nominal_a": 40,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "11 kW",
+            "AC3_380V": "18,5 kW",
+            "AC3_440V": "22 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS50",
+        "corrente_nominal_a": 50,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "15 kW",
+            "AC3_380V": "22 kW",
+            "AC3_440V": "30 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS65",
+        "corrente_nominal_a": 65,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "18,5 kW",
+            "AC3_380V": "30 kW",
+            "AC3_440V": "37 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS80",
+        "corrente_nominal_a": 80,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "22 kW",
+            "AC3_380V": "37 kW",
+            "AC3_440V": "45 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS95",
+        "corrente_nominal_a": 95,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "22 kW",
+            "AC3_380V": "45 kW",
+            "AC3_440V": "55 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS105",
+        "corrente_nominal_a": 105,
+        "tensao_bobina_v": "690/1000",
+        "potencia_nominal": {
+            "AC3_220V": "30 kW",
+            "AC3_380V": "55 kW",
+            "AC3_440V": "55 kW"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "0",
+        "padrao_normas": [
+            "IEC 60947-4-1",
+            "VDE 0660",
+            "UL",
+            "CSA"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS9",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "9,5",
+            "AC3_380V": "16,5",
+            "AC3_440V": "19"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS12",
+        "corrente_nominal_a": 25,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "9,5",
+            "AC3_380V": "16,5",
+            "AC3_440V": "19"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 25,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS18",
+        "corrente_nominal_a": 32,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "12",
+            "AC3_380V": "21",
+            "AC3_440V": "24"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 32,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS25",
+        "corrente_nominal_a": 45,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "17",
+            "AC3_380V": "29,5",
+            "AC3_440V": "34"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 45,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS32",
+        "corrente_nominal_a": 60,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "22,5",
+            "AC3_380V": "39,5",
+            "AC3_440V": "45,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS40",
+        "corrente_nominal_a": 60,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "22,5",
+            "AC3_380V": "39,5",
+            "AC3_440V": "45,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 60,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS50",
+        "corrente_nominal_a": 90,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "34",
+            "AC3_380V": "59",
+            "AC3_440V": "68,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 90,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS65",
+        "corrente_nominal_a": 110,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "42",
+            "AC3_380V": "72,5",
+            "AC3_440V": "84"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS80",
+        "corrente_nominal_a": 110,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "42",
+            "AC3_380V": "72,5",
+            "AC3_440V": "84"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 110,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS95",
+        "corrente_nominal_a": 140,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "53",
+            "AC3_380V": "92",
+            "AC3_440V": "106,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    },
+    {
+        "modelo": "CWMS105",
+        "corrente_nominal_a": 140,
+        "tensao_bobina_v": "220-690",
+        "potencia_nominal": {
+            "AC3_220V": "53",
+            "AC3_380V": "92",
+            "AC3_440V": "106,5"
+        },
+        "frequencia_hz": "50/60",
+        "tensao_isolacao_ui_v": 1000,
+        "corrente_ac1_a": 140,
+        "numero_contatos_principais": 3,
+        "numero_contatos_auxiliares": "1NA",
+        "padrao_normas": [
+            "IEC 60947-5-1",
+            "IEC 60947-4-1"
+        ],
+        "dimensoes_mm": {
+            "altura": 0,
+            "largura": 0,
+            "profundidade": 0
+        }
+    }
+]
