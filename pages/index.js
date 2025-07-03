@@ -45,7 +45,7 @@ export default function Home() {
     const deltaV = 0.01 * tensao;
     const secaoCalculada = (Math.sqrt(3) * corrente * comprimento) / (gamma * deltaV);
 
-    const bitolas = [1.5, 2.5, 4, 6, 10, 16, 25, 35, 50, 70, 95, 120, 150, 185, 240, 300];
+    const bitolas = [2.5, 4, 6, 10, 16, 25, 35, 50, 70, 95, 120, 150, 185, 240, 300];
     const bitolaFinal = bitolas.find(b => b >= secaoCalculada) || 'Acima de 300mm²';
 
     setResultado({
